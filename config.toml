@@ -1,0 +1,4 @@
+baseURL = "https://jpedro.github.io/"
+languageCode = "en-us"
+title = "jpedro"
+theme = "jpedro"
